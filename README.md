@@ -14,7 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+GitHub Guide:
+
+  https://training.github.com/downloads/es_ES/github-git-cheat-sheet/
+
 Markdown Guide: 
   https://www.markdownguide.org/
   https://www.markdownguide.org/getting-started/
+  
 -->
