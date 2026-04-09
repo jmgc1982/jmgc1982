@@ -1,4 +1,8 @@
-## Hi there 👋
+## ¡Hola a tod@s! 👋
+
+Este es mi nuevo GitHub donde publicaré muchos repositorios públicos sobre el mundo de la programación.
+
+¡Espero que os guste ❤️ y nos vemos por GitHub!👍
 
 <!--
 **jmgc1982/jmgc1982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
