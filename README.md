@@ -4,11 +4,11 @@ Este es mi nuevo GitHub donde publicaré muchos repositorios públicos sobre el 
 
 ¡Espero que os guste ❤️ y nos vemos por GitHub!👍
 
+<!--
 ## Histórico de estrellas
 
 [![Star History Chart](https://api.star-history.com/chart?repos=jmgc1982/jmgc1982&type=date&legend=top-left)](https://www.star-history.com/?repos=jmgc1982%2Fjmgc1982&type=date&legend=top-left)
 
-<!--
 **jmgc1982/jmgc1982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
