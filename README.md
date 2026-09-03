@@ -1,6 +1,6 @@
 ## ¡Hola a tod@s! 👋
 
-Este es mi nuevo GitHub donde publicaré muchos repositorios públicos sobre el mundo de la programación.
+Este es mi nuevo GitHub donde publicaré repositorios públicos sobre el mundo de la ingeniería de software.
 
 ¡Espero que os guste ❤️ y nos vemos por GitHub!👍
 
